@@ -58,9 +58,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-/target/
-/.settings/
-/.classpath
-/.project
+target/
+.settings/
+.classpath
+.project
 *.iml
 .idea/
